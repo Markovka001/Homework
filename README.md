@@ -1,2 +1,1 @@
-# Homework
-Homework for the course "Network Engineering" for OTUS from Shushakova Ruslan.
+# Homework for the course "Network Engineering" for OTUS from Shushakova Ruslan.
